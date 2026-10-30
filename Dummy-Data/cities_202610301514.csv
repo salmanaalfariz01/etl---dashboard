@@ -1,0 +1,26 @@
+"city_id","city_name","province"
+1,Jakarta,DKI Jakarta
+2,Surabaya,East Java
+3,Bandung,West Java
+4,Semarang,Central Java
+5,Yogyakarta,DI Yogyakarta
+6,Malang,East Java
+7,Tangerang,Banten
+8,Bekasi,West Java
+9,Medan,North Sumatra
+10,Palembang,South Sumatra
+11,Pekanbaru,Riau
+12,Batam,Riau Islands
+13,Padang,West Sumatra
+14,Bandar Lampung,Lampung
+15,Balikpapan,East Kalimantan
+16,Samarinda,East Kalimantan
+17,Pontianak,West Kalimantan
+18,Banjarmasin,South Kalimantan
+19,Makassar,South Sulawesi
+20,Manado,North Sulawesi
+21,Denpasar,Bali
+22,Mataram,West Nusa Tenggara
+23,Kupang,East Nusa Tenggara
+24,Ambon,Maluku
+25,Jayapura,Papua

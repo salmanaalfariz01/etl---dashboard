@@ -1,0 +1,28 @@
+"position_id","position_title","job_level"
+1,Software Engineer,Staff
+2,Data Analyst,Staff
+3,HR Admin,Staff
+4,Accountant,Staff
+5,Sales Executive,Staff
+6,Digital Marketer,Staff
+7,Customer Service Representative,Staff
+8,Legal Officer,Staff
+9,Procurement Staff,Staff
+10,UI/UX Designer,Staff
+11,Senior Software Engineer,Supervisor
+12,IT Team Lead,Supervisor
+13,HR Supervisor,Supervisor
+14,Senior Accountant,Supervisor
+15,Sales Team Leader,Supervisor
+16,Operations Supervisor,Supervisor
+17,IT Engineering Manager,Manager
+18,HR Manager,Manager
+19,Finance & Accounting Manager,Manager
+20,Marketing Manager,Manager
+21,Operations Manager,Manager
+22,Product Manager,Manager
+23,Chief Technology Officer (CTO),Director
+24,Chief Human Resources Officer (CHRO),Director
+25,Chief Financial Officer (CFO),Director
+26,Chief Marketing Officer (CMO),Director
+27,Managing Director,Director
